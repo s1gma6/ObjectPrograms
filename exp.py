@@ -1,0 +1,1 @@
+print("YOUR MOM IS FAT")
